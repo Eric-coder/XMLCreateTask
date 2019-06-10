@@ -11,4 +11,4 @@
 
     3: 进行录入cgteamwork
 
-![image](https://github.com/WangTianX/XMLCreateTask/blob/master/image/20190610203231.png)
+![image](https://github.com/WangTianX/XMLCreateTask/blob/master/image/20190610204004.png)
